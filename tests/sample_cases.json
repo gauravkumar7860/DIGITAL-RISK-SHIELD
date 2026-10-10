@@ -1,0 +1,14 @@
+{"brand": "AcmePay", "official_handles": ["acmepay_official"],
+ "official_apps": [{"name": "AcmePay Wallet", "publisher": "AcmePay Technologies Ltd"}],
+ "social": [
+  {"input": "acmepay_official", "official": true, "min_level": "Low", "max_level": "Low"},
+  {"input": "@AcmePay_Official", "official": true, "min_level": "Low", "max_level": "Low"},
+  {"input": "acmepay_support24", "official": false, "min_level": "High", "max_level": "Critical"},
+  {"input": "acme_pay_rewards", "official": false, "min_level": "High", "max_level": "Critical"},
+  {"input": "https://instagram.com/acmepay_support24/", "official": false, "min_level": "High", "max_level": "Critical"},
+  {"input": "random_cook", "official": false, "min_level": "Low", "max_level": "Low"}],
+ "app": [
+  {"input": "AcmePay Wallet", "publisher": "AcmePay Technologies Ltd", "official": true, "min_level": "Low", "max_level": "Low"},
+  {"input": "AcmePay Wallet", "publisher": "Quick Apps LLC", "official": false, "min_level": "High", "max_level": "Critical"},
+  {"input": "AcmePay Wallet Pro", "publisher": "", "official": false, "min_level": "High", "max_level": "Critical"},
+  {"input": "Calculator", "publisher": "", "official": false, "min_level": "Low", "max_level": "Low"}]}
